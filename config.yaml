@@ -4,7 +4,7 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://squidwrench.github.io"
+baseurl: "https://squidwrench.github.io"
 title: "Squidwrench"
 canonifyurls: true
 ...
